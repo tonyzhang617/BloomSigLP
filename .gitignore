@@ -1,0 +1,16 @@
+*.pyc
+*.swp
+backup/
+results/
+software/
+dataset/
+__pycache__/
+baselines/
+temp*
+tmp_vis.png
+*.pt
+wandb/
+dataset/
+dataset
+.vscode/
+
